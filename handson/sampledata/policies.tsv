@@ -1,0 +1,13 @@
+PolicyName	Description	StatementsInJSON
+policy_phx_01	Training policy 01 for Phoenix	["allow group group_phx_01 to manage all-resources in compartment compartment_phx_01"]
+policy_phx_02	Training policy 02 for Phoenix	["allow group group_phx_02 to manage all-resources in compartment compartment_phx_02"]
+policy_phx_03	Training policy 03 for Phoenix	["allow group group_phx_03 to manage all-resources in compartment compartment_phx_03"]
+policy_iad_01	Training policy 01 for Ashburn	["allow group group_iad_01 to manage all-resources in compartment compartment_iad_01"]
+policy_iad_02	Training policy 02 for Ashburn	["allow group group_iad_02 to manage all-resources in compartment compartment_iad_02"]
+policy_iad_03	Training policy 03 for Ashburn	["allow group group_iad_03 to manage all-resources in compartment compartment_iad_03"]
+policy_lha_01	Training policy 01 for London	["allow group group_lha_01 to manage all-resources in compartment compartment_lha_01"]
+policy_lha_02	Training policy 02 for London	["allow group group_lha_02 to manage all-resources in compartment compartment_lha_02"]
+policy_lha_03	Training policy 03 for London	["allow group group_lha_03 to manage all-resources in compartment compartment_lha_03"]
+policy_fra_01	Training policy 01 for Frankfurt	["allow group group_fra_01 to manage all-resources in compartment compartment_fra_01"]
+policy_fra_02	Training policy 02 for Frankfurt	["allow group group_fra_02 to manage all-resources in compartment compartment_fra_02"]
+policy_fra_03	Training policy 03 for Frankfurt	["allow group group_fra_03 to manage all-resources in compartment compartment_fra_03"]
