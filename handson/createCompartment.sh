@@ -2,8 +2,7 @@
 
 datadir=./data
 
-#tenancyid="ocid1.tenancy.oc1..aaaaaaaatonm3amrk6mwbfknuyub4hy5c2psgrv6mdlbd2db2gotz5gqwjia"
-tenancyid="ocid1.tenancy.oc1..aaaaaaaa3mb7wrcy2ls3u3jsy2soq5ck3lc3q4mczitpdaymbuazc5tkguca"
+tenancyid="<your_ocid>"
 input=${datadir}/compartments.tsv
 
 lines=`cat ${input} | grep -c ''`
