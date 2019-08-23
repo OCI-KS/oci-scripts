@@ -1,13 +1,13 @@
 Description	Username	Email	Groups(joined by |)
-Training user 01 for Phoenix	user_phx_01		group_phx_01
-Training user 02 for Phoenix	user_phx_02		group_phx_02
-Training user 03 for Phoenix	user_iad_01		group_phx_03
-Training user 01 for Ashburn	user_iad_02		group_iad_01
-Training user 02 for Ashburn	user_iad_02		group_iad_02
-Training user 03 for Ashburn	user_iad_03		group_iad_03
-Training user 01 for London	user_lha_01		group_lha_01
-Training user 02 for London	user_lha_02		group_lha_02
-Training user 03 for London	user_lha_03		group_lha_03
-Training user 01 for Frankfurt	user_fra_01		group_fra_01
-Training user 02 for Frankfurt	user_fra_02		group_fra_02
-Training user 03 for Frankfurt	user_fra_03		group_fra_03
+Training user 01 for Phoenix	user_phx_01	dummy	group_phx_01
+Training user 02 for Phoenix	user_phx_02	dummy	group_phx_02
+Training user 03 for Phoenix	user_iad_01	dummy	group_phx_03
+Training user 01 for Ashburn	user_iad_02	dummy	group_iad_01
+Training user 02 for Ashburn	user_iad_02	dummy	group_iad_02
+Training user 03 for Ashburn	user_iad_03	dummy	group_iad_03
+Training user 01 for London	user_lha_01	dummy	group_lha_01
+Training user 02 for London	user_lha_02	dummy	group_lha_02
+Training user 03 for London	user_lha_03	dummy	group_lha_03
+Training user 01 for Frankfurt	user_fra_01	dummy	group_fra_01
+Training user 02 for Frankfurt	user_fra_02	dummy	group_fra_02
+Training user 03 for Frankfurt	user_fra_03	dummy	group_fra_03
